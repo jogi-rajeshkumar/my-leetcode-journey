@@ -106,9 +106,13 @@ class Solution(object):
 
 ---
 
-## 🧠 Notes
+## 🧪 Submission Info
 
-- A **greedy approach** works here because once you start a new subsequence, extending it as much as possible is optimal.
-- The problem would be harder if we were allowed to rearrange elements arbitrarily, but sorting handles the minimum difference constraint efficiently.
+- **Status:** ✅ Accepted  
+- **Language:** Python  
+- **Runtime:** 150 ms  
+- **Memory Usage:** 21.6 MB  
+- **Submitted:** 2 hours ago  
+- **Notes:** Clean greedy approach with sort + linear scan. Handles edge cases efficiently.
 
 ---

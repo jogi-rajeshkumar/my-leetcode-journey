@@ -112,7 +112,6 @@ class Solution(object):
 - **Language:** Python  
 - **Runtime:** 150 ms  
 - **Memory Usage:** 21.6 MB  
-- **Submitted:** 2 hours ago  
 - **Notes:** Clean greedy approach with sort + linear scan. Handles edge cases efficiently.
 
 ---
